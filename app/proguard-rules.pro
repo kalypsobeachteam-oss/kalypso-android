@@ -1,0 +1,1 @@
+-keep class com.kalypso.reservation.** { *; }
